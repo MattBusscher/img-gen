@@ -12,6 +12,10 @@ OPEN_AI = "Your api Key"
 
 ### Run server & frontend locally
 
-```node server.js```
+```
+node server.js
+```
 
-```npm run dev```
+```
+npm run dev
+```
